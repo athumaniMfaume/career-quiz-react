@@ -1,5 +1,7 @@
 # 🎯 Career Quiz App
 
+live demo  👉 https://careerquizreact.netlify.app/
+
 A simple and interactive career quiz application built with **React** and **Tailwind CSS**.  
 The app allows users to answer multiple-choice questions and get personalized career suggestions based on their answers.
 
@@ -42,7 +44,8 @@ The app allows users to answer multiple-choice questions and get personalized ca
 
 🖼️ Screenshots
 
-(Add screenshots or a GIF demo of your app here)
+![Screenshot 1](./r1.PNG)  
+![Screenshot 2](./r2.PNG)   
 
 🔮 Future Improvements
 
